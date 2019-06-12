@@ -1,2 +1,6 @@
 This is a basic web application made by using Flask on python.
+Steps in order to run the app-
+1) Clone the repository
+2) Run the program
+3) Head to http://localhost:5000/
 
